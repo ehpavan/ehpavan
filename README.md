@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pavan
 <img align="right" alt="Futuristic Hacker GIF" width="270" style="border-radius: 20px; box-shadow: 0 0 15px #00ffff; margin-left: 15px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**Age:** 16 · **Role:** Cybersecurity Enthusiast — _building ZeroClyne_  
-Passionate about web & API security, bug bounties, automation, and building next-gen security tools.
+I'm **Pavan**, a **16 y/o from India** 🇮🇳 with a deep understanding of **API, Web, Mobile and Cloud Security**.  
+Currently focusing on **bug bounty hunting** and **building next-gen cybersecurity tools** that push automation and efficiency to new levels.
 
 ---
 
@@ -12,15 +12,13 @@ Passionate about web & API security, bug bounties, automation, and building next
 ---
 
 ## 🚀 Skills & Tech
-- **Languages & Scripting:** Python, Bash, SQL  
-- **Security / Tools:** Web Security, API Security, Bug Bounty hunting, Recon automation  
-- **Systems & Infra:** Linux, Active Directory, Cloud Security fundamentals  
-- **Other:** Git, Networking basics, Vulnerability scanning
+- **Languages & Scripting:** Python, Bash, SQL, Javascript 
+- **Security / Tools:** Web Security, API Security, Mobile Security, Bug Bounty hunting, Recon automation  
+- **Systems & Infra:** Linux, Active Directory, Cloud Security fundamentals, windows  
+- **Other:** Git, Networking basics, Vulnerability research
 
 ---
 
-## 🧰 Tools I use
-`nmap` · `naabu` · `ffuf` · `burpsuite` · `msfconsole` · `gobuster` · custom Python tooling & scripts
 
 ---
 
@@ -45,16 +43,17 @@ Check out my recent work and tools:
 ---
 
 ## 🧩 What I’m learning
-- Advanced Active Directory techniques & defenses  
-- Automation for recon & triage (speeding up bug hunting)  
-- Cloud security best practices & hardened infrastructure scanning
+- Advanced offensive security  
+- Bug  bounty more depth
+- Cloud security best practices, hardened infrastructure scanning & misconfigurations.
 
 ---
 
-## ✨ Goals
-- Build production-ready tools for automated, safe reconnaissance and triage.  
+##  Goals
+- Be top at bug bounty, and become cyber security expertise.  
 - Grow ZeroClyne into a professional security services / tooling brand.  
 - Keep leveling up in bug bounty programs and share knowledge with the community.
+- Complete the OSCP examination as a teen.
 
 ---
 
@@ -71,4 +70,3 @@ Check out my recent work and tools:
 
 ---
 
-*Made with :heart: — Pavan*
