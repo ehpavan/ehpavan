@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Pavan
-![Futuristic Hacker GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
-
-
+<img align="right" alt="Futuristic Hacker GIF" width="270" style="border-radius: 20px; box-shadow: 0 0 15px #00ffff; margin-left: 15px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **Age:** 16 · **Role:** Cybersecurity Enthusiast — _building ZeroClyne_  
 Passionate about web & API security, bug bounties, automation, and building next-gen security tools.
