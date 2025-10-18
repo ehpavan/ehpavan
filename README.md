@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Pavan
-<img align="right" alt="Futuristic Hacker GIF" width="270" style="border-radius: 20px; box-shadow: 0 0 15px #00ffff; margin-left: 15px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I'm **Pavan**, a **16 y/o from India** 🇮🇳 with a deep understanding of **API, Web, Mobile and Cloud Security**.  
 Currently focusing on **bug bounty hunting** and **building next-gen cybersecurity tools** that push automation and efficiency to new levels.
